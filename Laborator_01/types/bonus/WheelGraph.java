@@ -89,7 +89,7 @@ public class WheelGraph {
     protected static int[][] matrixGenerator(int n){
         int[][] adjacencyMatrix = new int[n][n];
         adjacencyMatrix[0][n - 2] = 1;
-        adjacencyMatrix[n - 2][0] = 1;
+        adjacencyMatrix[n - 2][0] = 1; // Connect the first land last vertice
 
         for(int i = 0 ; i < n - 1 ; i++)
             for(int j = 0 ; j < n - 1 ; j++)
@@ -98,7 +98,7 @@ public class WheelGraph {
                         adjacencyMatrix[i][j] = 1;
                         adjacencyMatrix[j][i] = 1;
                     }
-                }
+                }                      // Connect the vertices in a circular pattern
 
         for(int i = 0 ; i < n - 1 ; i++){
             adjacencyMatrix[n - 1][i] = 1;

@@ -17,16 +17,16 @@ import utility.Utility;
 public class WheelGraphCycles extends WheelGraph {
 
      /** The adjacency matrix representing the graph. */
-    static int[][] adjacencyMatrix;
+    private static int[][] adjacencyMatrix;
 
     /** Stores the cycles found in the graph. */
-    static ArrayList<ArrayList<Integer>> cycles = new ArrayList<>();
+    private static ArrayList<ArrayList<Integer>> cycles = new ArrayList<>();
 
     /** Logger for logging information. */
     private static final Logger logger = Logger.getLogger(WheelGraphCycles.class.getName());
 
     /** StringBuilder used to output messages. */
-    static StringBuilder outputMessage = new StringBuilder();
+    private static StringBuilder outputMessage = new StringBuilder();
 
     /**
      * Main method for finding and displaying cycles in the Wheel Graph
@@ -56,7 +56,7 @@ public class WheelGraphCycles extends WheelGraph {
         int startNode = possibleCycle.get(0);
     
         for (int i = 0; i < adjacencyMatrix.length; i++) {
-            if (adjacencyMatrix[startNode][i] == 1 && startNode != i) {
+            if (adjacencyMatrix[startNode][i] == 1) {
                 exploreCycle(possibleCycle, i);
             }
         }

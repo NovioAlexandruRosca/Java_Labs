@@ -167,5 +167,4 @@ public class KReduct {
         }
         return sum;
     }
-
 }
