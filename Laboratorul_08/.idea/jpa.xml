@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig" reUseTableSchema="true">
+    <option name="reLastEntityCreationPackage" value="src/main/java/org/example/entityClasses" />
+    <option name="reverseEngineeringLastDbConnectionId" value="42585b1c-86c9-4a98-ab3d-f6ca7ec2c4dd__book_collections" />
+  </component>
+  <component name="JpaPluginProjectSettings">
+    <option name="entityNameTemplate" />
+    <option name="scaffoldingLanguage" />
+  </component>
+</project>

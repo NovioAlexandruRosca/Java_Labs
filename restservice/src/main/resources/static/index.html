@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Management Client</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<div class="container">
+    <h1>Book Management Client</h1>
+
+    <div class="form-container">
+        <h2>Rename a Book</h2>
+        <input type="number" id="renameBookId" placeholder="Book ID">
+        <input type="text" id="newBookName" placeholder="New Book Name">
+        <button id="renameBookButton">Rename Book</button>
+    </div>
+
+    <div class="form-container">
+        <h2>Add a Book</h2>
+        <input type="text" id="bookTitle" placeholder="Book Title">
+        <input type="text" id="bookLanguage" placeholder="Language">
+        <input type="date" id="publicationDate">
+        <input type="number" id="numPages" placeholder="Number of Pages">
+        <button id="addBookButton">Add Book</button>
+    </div>
+
+    <div class="form-container">
+        <h2>Delete a Book</h2>
+        <input type="number" id="deleteBookId" placeholder="Book ID">
+        <button id="deleteBookButton">Delete Book</button>
+    </div>
+
+    <div class="form-container">
+        <h2>List of Books</h2>
+        <button id="listBooksButton">List Books</button>
+    </div>
+
+    <div class="form-container">
+        <h2>List of Authors</h2>
+        <button id="listAuthorsButton">List Authors</button>
+    </div>
+
+    <div id="output"></div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>

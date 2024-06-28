@@ -1,0 +1,30 @@
+May 12, 2024 11:25:07 PM org.example.StatementLogger logInfo
+INFO: JPQL statement: findById: 2313123
+May 12, 2024 11:27:22 PM org.example.StatementLogger logInfo
+INFO: JPQL statement: findById: 2313123
+May 12, 2024 11:28:55 PM org.example.StatementLogger logInfo
+INFO: JPQL statement: findById: 2313123
+May 12, 2024 11:29:29 PM org.example.StatementLogger logInfo
+INFO: JPQL statement: created book: org.example.entityClasses.Book@3119cf6f
+May 12, 2024 11:29:29 PM org.example.StatementLogger logInfo
+INFO: JPQL statement: findById: 2313123
+May 12, 2024 11:35:07 PM org.example.StatementLogger logCritical
+SEVERE: Exception: org.hibernate.PersistentObjectException: detached entity passed to persist: org.example.entityClasses.PublishingHouse
+May 12, 2024 11:42:32 PM org.example.StatementLogger logCritical
+SEVERE: Exception: org.hibernate.PersistentObjectException: detached entity passed to persist: org.example.entityClasses.PublishingHouse
+May 12, 2024 11:47:26 PM org.example.StatementLogger logCritical
+SEVERE: Exception: org.hibernate.PersistentObjectException: detached entity passed to persist: org.example.entityClasses.Author
+May 13, 2024 12:10:31 AM org.example.StatementLogger logInfo
+INFO: JPQL statement: findById: 2313123
+May 13, 2024 12:17:26 AM org.example.StatementLogger logInfo
+INFO: JPQL statement: findById: 2313123
+May 13, 2024 12:19:18 AM org.example.StatementLogger logInfo
+INFO: JPQL statement: findById: 2313123
+May 13, 2024 12:19:38 AM org.example.StatementLogger logCritical
+SEVERE: Exception: org.hibernate.PersistentObjectException: detached entity passed to persist: org.example.entityClasses.PublishingHouse
+May 13, 2024 12:33:15 AM org.example.StatementLogger logInfo
+INFO: JPQL statement: findById: 2313123
+May 13, 2024 12:33:28 AM org.example.StatementLogger logCritical
+SEVERE: Exception: org.hibernate.PersistentObjectException: detached entity passed to persist: org.example.entityClasses.PublishingHouse
+May 13, 2024 12:34:17 AM org.example.StatementLogger logCritical
+SEVERE: Exception: org.hibernate.PersistentObjectException: detached entity passed to persist: org.example.entityClasses.PublishingHouse

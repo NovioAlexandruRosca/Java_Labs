@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c78d6059-a049-4c37-b690-10489017b214" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Laboratorul_05/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_05/src/main/java/org/example/commands/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_05/src/main/java/org/example/commands/CommandAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_05/src/main/java/org/example/commands/Export.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_05/src/main/java/org/example/commands/Report.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_05/src/main/java/org/example/commands/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_05/src/main/java/org/example/datatypes/DataModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_05/src/main/java/org/example/datatypes/ID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_05/src/main/java/org/example/enums/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_05/src/main/java/org/example/excel/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_05/src/main/java/org/example/excel/ExcelWalker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_05/src/main/java/org/example/excel/MaxCliqueFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_05/src/main/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_06/src/main/java/org/example/AI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_06/src/main/java/org/example/CanvasPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_06/src/main/java/org/example/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_07/src/main/java/org/example/CrissCrossHeuristic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_07/src/main/java/org/example/GameLobby.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_07/src/main/java/org/example/Sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_07/src/main/java/org/example/SmartConcurrentPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_07/src/main/java/org/example/TimekeeperDaemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_07/src/main/java/org/example/Token.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/org/example/DataImporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/org/example/PersistenceUnitConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/org/example/Repositories/AbstractRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/org/example/Repositories/AuthorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/org/example/Repositories/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/org/example/Repositories/BookRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/org/example/Repositories/PublishingHouseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/org/example/StatementLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/org/example/dao/AuthorDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/org/example/dao/BookDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/org/example/dataTypes/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/org/example/dataTypes/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/org/example/entityClasses/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/org/example/entityClasses/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/org/example/entityClasses/Bookauthor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/org/example/entityClasses/BookauthorId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/org/example/entityClasses/Bookpublishinghouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/org/example/entityClasses/BookpublishinghouseId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/org/example/entityClasses/PublishingHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/org/example/interfaces/IAuthorDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/org/example/interfaces/IBookDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/utility/ServiceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/java/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_08/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_10_Client/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_10_Client/src/main/java/org/example/GameClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_10_Server/src/main/java/org/example/ClientThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_10_Server/src/main/java/org/example/Entities/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_10_Server/src/main/java/org/example/GameServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_10_Server/src/main/java/org/example/TournamentLogic/OutcomeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_10_Server/src/main/java/org/example/TournamentLogic/Schedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_10_Server/src/main/java/org/example/TournamentLogic/Tournament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_10_Server/src/main/java/org/example/TournamentLogic/WinningSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_10_Server/src/main/java/org/example/gameBoard/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorul_10_Server/src/main/java/org/example/gameLogic/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laboratorul_04/src/main/java/org/example/utility/ServiceException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratorul_07/src/main/java/utility/ServiceException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laboratorul_04/src/main/java/org/example/utility/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratorul_07/src/main/java/utility/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laboratorul_05/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratorul_05/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laboratorul_05/src/main/java/org/example/DocumentRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratorul_05/src/main/java/org/example/repository/DocumentRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laboratorul_05/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratorul_05/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laboratorul_05/src/main/java/org/example/shellLogic/Shell.java" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratorul_05/src/main/java/org/example/shellLogic/Shell.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2gdaimvGNHLrsBE7i9bi2xCT7bp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Fac/java/Rezolvari/JAVA",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c78d6059-a049-4c37-b690-10489017b214" name="Changes" comment="" />
+      <created>1716030037939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716030037939</updated>
+      <workItem from="1716030038983" duration="143000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

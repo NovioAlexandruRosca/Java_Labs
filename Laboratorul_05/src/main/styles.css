@@ -1,0 +1,61 @@
+
+h1,h2,h3,h4,h5,h6{
+    color: #352a2a;
+}
+
+body {
+    display: flex;
+    font-family: Arial, sans-serif;
+    background-color: #f0e8e8;
+    color: #333;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    margin-top: -70px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-left: -40px;
+    margin-bottom: 10px;
+}
+
+.employee-section {
+    background-color: rgb(139, 137, 137);
+    color: rgb(104, 34, 34); /* Optionally change text color */
+    padding: 20px 100px 30px 100px;
+    margin-bottom: 20px; /* Adjust margin as needed */
+    border: black 2px solid;
+    border-radius: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.data{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(136, 132, 132);
+    padding: 0px 20px 0px 20px;
+    border-radius: 10%;
+    width: 200px;
+    margin-bottom: 20px;
+}
+.data h3{
+    margin: 10px 10px 0px 10px;
+}
